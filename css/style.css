@@ -1,0 +1,7 @@
+a.spoiler:after{
+    content: " [-]"
+}
+a.collapsed:after{
+    content: " [+]"
+}
+
